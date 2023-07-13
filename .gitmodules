@@ -1,3 +1,4 @@
 [submodule "test"]
 	path = test
-	url = https://github.com/opendatahub-io/openshift-test-kit.git
+	url = https://github.com/lavlas/openshift-test-kit.git
+	branch = fix-false-positive
